@@ -7,7 +7,7 @@ Build and Deploy a fully responsive Modern Full Stack Ecommerce application with
 
 In this video, you'll learn:
 
-• Advanced React Best Practices such as
+• Advanced React Best Practices such as "\n"
     • Folder and file structure, hooks and refs
 • Advanced State Management of the entire application using React Context AP
 • Next.js Best Practices such as
